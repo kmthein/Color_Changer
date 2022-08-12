@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(205, 207, 53);
+}
+
+button{
+    font-size: 20px;
+    padding: 20px 75px;
+    margin: 40vh 90vh;
+    border: 2px solid black;
+    color: rgb(218, 218, 218);
+    background-color: rgb(61, 58, 58);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
